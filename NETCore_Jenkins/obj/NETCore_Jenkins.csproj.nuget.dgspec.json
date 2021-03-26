@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\StudyProject\\NETCoreCode\\202103\\NETCore_Jenkins\\NETCore_Jenkins\\NETCore_Jenkins.csproj": {}
+    "D:\\Project\\NETCore_Jenkins\\NETCore_Jenkins\\NETCore_Jenkins.csproj": {}
   },
   "projects": {
-    "D:\\Project\\StudyProject\\NETCoreCode\\202103\\NETCore_Jenkins\\NETCore_Jenkins\\NETCore_Jenkins.csproj": {
+    "D:\\Project\\NETCore_Jenkins\\NETCore_Jenkins\\NETCore_Jenkins.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\StudyProject\\NETCoreCode\\202103\\NETCore_Jenkins\\NETCore_Jenkins\\NETCore_Jenkins.csproj",
+        "projectUniqueName": "D:\\Project\\NETCore_Jenkins\\NETCore_Jenkins\\NETCore_Jenkins.csproj",
         "projectName": "NETCore_Jenkins",
-        "projectPath": "D:\\Project\\StudyProject\\NETCoreCode\\202103\\NETCore_Jenkins\\NETCore_Jenkins\\NETCore_Jenkins.csproj",
-        "packagesPath": "C:\\Users\\xgy\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\StudyProject\\NETCoreCode\\202103\\NETCore_Jenkins\\NETCore_Jenkins\\obj\\",
+        "projectPath": "D:\\Project\\NETCore_Jenkins\\NETCore_Jenkins\\NETCore_Jenkins.csproj",
+        "packagesPath": "C:\\Users\\wusuowei\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\NETCore_Jenkins\\NETCore_Jenkins\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\xgy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\wusuowei\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +29,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -38,7 +40,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
@@ -63,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
